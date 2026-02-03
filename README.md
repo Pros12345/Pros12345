@@ -32,6 +32,11 @@
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+### 🗄️ ORM & Persistence
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+
+
 ### 🔐 Security & Messaging
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
