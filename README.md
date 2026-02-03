@@ -1,21 +1,98 @@
-# 💫 About Me:
-👋 Hi, I’m Prosenjit Chakrabortty<br>💼 Senior Software Engineer and Full-Stack Java Developer with nearly 4 years of experience in building scalable, high-performance web applications.<br>💡 Skilled in Java (8/11), Spring Boot, Microservices, Angular, and SQL (MySQL / MSSQL), with hands-on experience in RESTful APIs and enterprise system integrations.<br>🚀 Proven ability to design workflow-driven systems, improve performance, and deliver reliable, production-ready solutions in agile environments.<br>🤝 Open to collaborating on Java backend, microservices, and full-stack development projects.<br>📫 Reach me at prosenjitmaigram@gmail.com
+# 💫 About Me
 
+👋 Hi, I’m **Prosenjit Chakrabortty**  
+💼 **Senior Software Engineer | Java Backend / Full-Stack Developer** with **4+ years of experience** in building scalable, high-performance enterprise applications.  
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prosenjitmaigram@gmail.com) 
+💡 Strong expertise in **Java (8/11), Spring Boot, Microservices, Angular, and MSSQL**, with proven success in improving system efficiency and reducing processing time by **up to 40%**.  
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pros12345&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Pros12345&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pros12345&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+🚀 Experienced in designing **workflow-driven systems**, integrating enterprise platforms like **SAP**, and delivering reliable, production-ready solutions in **Agile environments**.  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pros12345&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🤝 Open to collaborating on **Java backend, microservices, and full-stack development** projects.  
+
+📫 Reach me at **prosenjitmaigram@gmail.com**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Pros12345&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prosenjitmaigram@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Frameworks & Architecture
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### 🔐 Security & Messaging
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### 🚀 CI/CD & Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![JIRA](https://img.shields.io/badge/JIRA-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
+
+## 🧑‍💼 Professional Experience Highlights
+
+### 🏢 **Marlabs – Senior Software Engineer**  
+**Client: Merck Private Limited**
+
+**Vendor Application (2023 – Present)**
+- Optimized vendor registration workflow, improving processing time by **30%**
+- Built Java APIs integrating SAP for automated **Vendor ID generation**
+- Reduced data errors by **25%** through validation and workflow automation
+- Designed end-to-end **invoice management system** with multi-step approvals
+- Integrated SAP payment triggers via **GRN / SES**, improving payment accuracy by **15%**
+
+**Timesheet Application (2021 – 2024)**
+- Developed enterprise timesheet system for **2000+ employees**
+- Implemented role-based approval workflows, reducing payroll issues by **35%**
+- Built real-time email notification system, improving month-end closure by **25%**
+- Added admin override controls, reducing payroll errors by **40%**
+
+---
+
+## 🧪 Personal Project
+
+**Instant Messaging Application (Java Socket Programming)**
+- Built a multi-client real-time messaging system using **Java sockets**
+- Implemented **multithreading and concurrency** for low-latency communication
+- Focused on scalability, synchronization, and performance optimization
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Pros12345&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Pros12345&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pros12345&theme=dark&layout=compact&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Pros12345&theme=radical&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Pros12345&icon=0&color=0)](https://visitcount.itsvg.in)
